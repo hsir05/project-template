@@ -20,8 +20,9 @@ npm run build --report
 项目使用:
 
 ```
-vue + vue-router + axios + Element-ui
+vue + vue-router + axios + Element-ui + scss
 ```
+
 为解决跨域问题，已配置使用代理，如不需要，可以在`config => index.js`
 
 ```
@@ -36,3 +37,4 @@ proxyTable: {
 ```
 proxyTable: {}
 ```
+
