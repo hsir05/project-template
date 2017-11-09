@@ -23,7 +23,7 @@ npm run build --report
 vue + vue-router + axios + Element-ui + scss
 ```
 
-为解决跨域问题，已配置使用代理，如不需要，可以在`config => index.js`
+为解决跨域问题，可以配置使用代理，如不需要，可以在`config => index.js`
 
 ```
 proxyTable: {
@@ -37,4 +37,4 @@ proxyTable: {
 ```
 proxyTable: {}
 ```
-
+[地址](https://github.com/taylorchen709/vue-admin)
